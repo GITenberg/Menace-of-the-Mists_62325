@@ -1,0 +1,40 @@
+_repo: Menace-of-the-Mists_62325
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doolin, Joseph
+    alias: Doolin, Joseph Patrick
+    birthdate: 1896
+    deathdate: 1967
+    gutenberg_agent_id: '51844'
+    url: http://www.gutenberg.org/2009/agents/51844
+creator:
+  author:
+    agent_name: Gold, H. L. (Horace Leonard)
+    aliases:
+    - Storey, Richard
+    - Gold, Horace Leonard
+    birthdate: 1914
+    deathdate: 1996
+    gutenberg_agent_id: '35538'
+    url: http://www.gutenberg.org/2009/agents/35538
+    wikipedia: https://en.wikipedia.org/wiki/H._L._Gold
+description: ''
+gutenberg_issued: '2020-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Menace of the Mists
+url: http://www.gutenberg.org/ebooks/62325
